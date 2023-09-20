@@ -1,3 +1,3 @@
-<p><img align="center" alt="coding" width="400" src="qwe.gif" /> </p>
+<div align="center"> <img align="center" alt="coding" width="400" src="qwe.gif" /> </div>
 
 
